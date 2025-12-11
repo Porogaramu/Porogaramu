@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-All my information is at https://striker2783.github.io/.
+All my information is at https://striker2783.github.io/. This profile is for my school projects.
 
 <!--
 **Porogaramu/Porogaramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
